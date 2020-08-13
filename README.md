@@ -1,7 +1,7 @@
 
-### Start in Docker
+## Start in Docker
 
-docker-compose up [--build]
+### `docker-compose up [--build]`
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
